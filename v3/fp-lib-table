@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name hirose)(type KiCad)(uri /home/adrien/project/usb_uart/hirose.pretty)(options "")(descr ""))
+  (lib (name qfn)(type KiCad)(uri /home/adrien/project/usb_uart/qfn.pretty)(options "")(descr ""))
+  (lib (name light_pipe)(type KiCad)(uri /home/adrien/project/usb_uart/light_pipe.pretty)(options "")(descr ""))
+  (lib (name fuse)(type KiCad)(uri /home/adrien/project/usb_uart/fuse.pretty)(options "")(descr ""))
+  (lib (name connector)(type KiCad)(uri /home/adrien/project/usb_uart/connector.pretty)(options "")(descr ""))
+  (lib (name vishay)(type KiCad)(uri /home/adrien/project/usb_uart/vishay.pretty)(options "")(descr ""))
+)
